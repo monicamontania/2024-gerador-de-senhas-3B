@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --nyanza: #d3f8e2ff;
+    --mauve: #e4c1f9ff;
+    --amaranth-pink: #f694c1ff;
+    --vanilla: #ede7b1ff;
+    --uranian-blue: #a9def9ff;
+    --texto-titulo: "weight", sans-serif;
+    --texto-corpo:
+
+}
