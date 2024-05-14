@@ -15,3 +15,13 @@
     --texto-corpo:
 
 }
+
+body{
+    background-color: var(--mauve);
+    color: var(--amaranth-pink);
+    font-family: var(--texto-corpo);
+}
+
+.titulo-principal{
+    font-family: var(--texto-titulo);
+}
